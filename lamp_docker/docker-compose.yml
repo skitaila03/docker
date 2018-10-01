@@ -1,0 +1,33 @@
+version: "3"
+services:
+   httpd:
+    build: ./web
+    container_name: web
+    hostname: "lamp.incrys.com"
+    ports: 
+     - "8081:80"
+     - "8082:80"
+     - "8083:80"
+     - "80:80"
+    volumes:
+     - ./web/httpd/www:/var/www/html
+     - ./web/httpd/conf:/etc/httpd/conf
+     - ./web/httpd/logs:/var/log/httpd
+     - ./web/php/logs:/var/opt/remi/php70/log
+     - ./web/php:/etc/opt/remi/php70
+    extra_hosts:
+     -  "localhost:127.0.0.1"
+     -  "base:192.168.13.37"
+     -  "lamp:192.168.13.36"
+     -  "lemp:192.168.13.35"
+     -  "haproxy:192.168.13.34"
+     -  "nagios:192.168.13.33"
+     -  "mysql:192.168.13.32"
+     -  "mysql-n1:192.168.13.31" 
+     -  "mysql-n2:192.168.13.30"
+     -  "elk:192.168.13.29"
+     -  "elk-n1:192.168.13.28"
+     -  "elk-n2:192.168.13.27"
+     -  "glusterfs:192.168.13.26"
+     -  "glusterfs-n1:192.168.13.25"
+     -  "glusterfs-n1:192.168.13.24"

@@ -1,0 +1,122 @@
+[Sat Sep 29 20:05:33.357864 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 20:05:33.361487 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 20:05:33.375557 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 20:05:33.375578 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 20:05:33.376795 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 20:05:33.379791 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 20:05:33.379827 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 20:05:36.066037 2018] [autoindex:error] [pid 8] [client 192.168.13.1:53059] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Sep 29 20:05:36.605884 2018] [autoindex:error] [pid 8] [client 192.168.13.1:53059] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Sep 29 20:05:57.824746 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 20:05:57.825757 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 20:05:57.839153 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 20:05:57.839181 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 20:05:57.841434 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 20:05:57.843262 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 20:05:57.843300 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 22:08:25.387209 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:08:25.388910 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 22:08:25.399907 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:08:25.399936 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 22:08:25.401195 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 22:08:25.402885 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 22:08:25.402913 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 22:15:32.259100 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:15:32.260514 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 22:15:32.272370 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:15:32.272399 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 22:15:32.274066 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 22:15:32.275949 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 22:15:32.275985 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 22:22:05.553062 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:22:05.554890 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 22:22:05.566021 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:22:05.566050 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 22:22:05.567299 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 22:22:05.569022 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 22:22:05.569061 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 22:50:56.192814 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:50:56.193892 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 22:50:56.206165 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:50:56.206185 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 22:50:56.207695 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 22:50:56.209433 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 22:50:56.209459 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 22:55:18.563985 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:55:18.570510 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 22:55:18.582830 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 22:55:18.582855 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 22:55:18.584048 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 22:55:18.586218 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 22:55:18.586250 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 23:03:57.466646 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:03:57.468150 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 23:03:57.478888 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:03:57.478928 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 23:03:57.480162 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 23:03:57.481799 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 23:03:57.481824 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 23:04:38.192014 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:04:38.193007 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 23:04:38.208446 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:04:38.208508 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 23:04:38.209986 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 23:04:38.215975 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Sep 29 23:04:38.216011 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 23:09:01.319460 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:09:01.639846 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 23:09:01.669043 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:09:01.669076 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 23:09:01.671078 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 23:09:01.849920 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) PHP/7.0.32 configured -- resuming normal operations
+[Sat Sep 29 23:09:01.849956 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 23:49:46.287551 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:49:46.288548 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 23:49:46.316054 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:49:46.316084 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 23:49:46.317328 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 23:49:46.356674 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) PHP/7.0.32 configured -- resuming normal operations
+[Sat Sep 29 23:49:46.356718 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 23:51:45.444635 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:51:45.445634 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 23:51:45.472498 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:51:45.472528 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 23:51:45.473913 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 23:51:45.514356 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) PHP/7.0.32 configured -- resuming normal operations
+[Sat Sep 29 23:51:45.514394 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 23:54:07.758013 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:54:07.762725 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sat Sep 29 23:54:07.788432 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:54:07.788462 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 23:54:07.789939 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 23:54:07.830375 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) PHP/7.0.32 configured -- resuming normal operations
+[Sat Sep 29 23:54:07.830440 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Sep 29 23:55:01.866713 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:55:01.867708 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Sep 29 23:55:01.895479 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sat Sep 29 23:55:01.895497 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sat Sep 29 23:55:01.896824 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 29 23:55:01.940961 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) PHP/7.0.32 configured -- resuming normal operations
+[Sat Sep 29 23:55:01.940997 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Sep 30 00:13:09.704943 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sun Sep 30 00:13:09.732411 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Sep 30 00:13:09.755648 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sun Sep 30 00:13:09.755679 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sun Sep 30 00:13:09.756984 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sun Sep 30 00:13:10.655275 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) PHP/7.0.32 configured -- resuming normal operations
+[Sun Sep 30 00:13:10.655329 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Sep 30 00:29:18.308997 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sun Sep 30 00:29:18.309994 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Sep 30 00:29:18.333788 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sun Sep 30 00:29:18.333818 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sun Sep 30 00:29:18.335111 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sun Sep 30 00:29:18.341020 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) PHP/7.0.32 configured -- resuming normal operations
+[Sun Sep 30 00:29:18.341055 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Sep 30 07:04:53.116319 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sun Sep 30 07:04:53.118061 2018] [suexec:notice] [pid 7] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Sep 30 07:04:53.141724 2018] [mime_magic:error] [pid 7] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /etc/httpd/conf/magic
+[Sun Sep 30 07:04:53.141755 2018] [auth_digest:notice] [pid 7] AH01757: generating secret for digest authentication ...
+[Sun Sep 30 07:04:53.143300 2018] [lbmethod_heartbeat:notice] [pid 7] AH02282: No slotmem from mod_heartmonitor
+[Sun Sep 30 07:04:53.149417 2018] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.6 (CentOS) PHP/7.0.32 configured -- resuming normal operations
+[Sun Sep 30 07:04:53.149449 2018] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
