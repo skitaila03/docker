@@ -1,0 +1,36 @@
+version: "3"
+services:
+   nginx:
+    build: ./web
+    container_name: web
+    hostname: "lemp.incrys.com"
+    #tty: true
+    ports: 
+     - "8081:80"
+     - "8082:80"
+     - "8083:80"
+     - "80:80"
+     - "9000:9000"
+
+    volumes:
+     - ./web/nginx/conf:/etc/nginx/conf.d
+     - ./web/nginx/www:/usr/share/nginx/html
+     - ./web/php/php-fpm.d:/etc/opt/remi/php71/php-fpm.d
+     - ./web/php/logs:/var/opt/remi/php71/php-fpm/log
+     - ./web/php:/etc/opt/remi/php71
+    extra_hosts:
+     -  "localhost:127.0.0.1"
+     -  "base:192.168.13.37"
+     -  "lamp:192.168.13.36"
+     -  "lemp:192.168.13.35"
+     -  "haproxy:192.168.13.34"
+     -  "nagios:192.168.13.33"
+     -  "mysql:192.168.13.32"
+     -  "mysql-n1:192.168.13.31" 
+     -  "mysql-n2:192.168.13.30"
+     -  "elk:192.168.13.29"
+     -  "elk-n1:192.168.13.28"
+     -  "elk-n2:192.168.13.27"
+     -  "glusterfs:192.168.13.26"
+     -  "glusterfs-n1:192.168.13.25"
+     -  "glusterfs-n1:192.168.13.24"
